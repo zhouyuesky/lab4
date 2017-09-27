@@ -1,4 +1,2 @@
 gittest2
-abcdefg
-hijklmn
-opqrst
+#C4 删除字母
