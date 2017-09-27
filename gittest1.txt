@@ -1,3 +1,6 @@
 gittest1
 hello world
 #B1新增
+#删除hello world
+#C4新增
+hello world
