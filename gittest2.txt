@@ -1,3 +1,15 @@
+
 test2
 
 delete hello
+#B2在开头新增
+gittest2
+abcdefg
+hijklmn
+opqrst
+
+abcdefg
+hijklmn
+opqrst
+#B1新增
+

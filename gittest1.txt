@@ -1,5 +1,13 @@
+
 test1
 hello china
 
 
 update something 
+#B2 在开头新增
+gittest1
+hello world
+#B1新增
+#删除hello world
+#C4新增
+hello world
